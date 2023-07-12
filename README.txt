@@ -28,8 +28,6 @@ Creating a python script to visualize the weather of over 500 cities of varying 
 Jupyter notebooks, the geoViews Python library, and the Geoapify API were used to plan for future vacations, and a python script was used to do the following:
 
 	▪	Create a map that displays a point for every city that was generated in part 1, the size of the point is the humidity in each city.
-        ![map1](https://github.com/M0412/python-api-challenge/assets/133132845/1fa55829-6f97-4abd-98f8-1d1246374ce3)
-
         ▪	Narrow down the data frame to the ideal weather condition.
 	▪	Create a data frame to store the city, coordinates, and humidity.
 	▪	Use the Geoapify API to find the first hotel located within 10,000 meters of my coordinates.
