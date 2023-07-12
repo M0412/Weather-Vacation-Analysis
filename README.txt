@@ -7,8 +7,7 @@ Creating a python script to visualize the weather of over 500 cities of varying 
  1- OpenWeatherMap was used to retrieve data from the cities list that were generated. A series of scatter plots was then created to showcase the following relationships:
 
 	▪	Latitude vs. Temperature
-        ![Latitude vs. Temperature](output_data/Fig1.png)
-          ![Latitude vs. Temperature](WeatherPy/output_data/Fig1.png)
+            ![](output_data/Fig1.png)
 	▪	Latitude  vs. Humidity
 	▪	Latitude vs. Cloudiness
 	▪	Latitude vs. Wind Speed
