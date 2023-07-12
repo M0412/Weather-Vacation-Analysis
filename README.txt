@@ -8,6 +8,7 @@ Creating a python script to visualize the weather of over 500 cities of varying 
 
 	▪	Latitude vs. Temperature
         ![Latitude vs. Temperature](output_data/Fig1.png)
+          ![Latitude vs. Temperature](WeatherPy/output_data/Fig1.png)
 	▪	Latitude  vs. Humidity
 	▪	Latitude vs. Cloudiness
 	▪	Latitude vs. Wind Speed
