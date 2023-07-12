@@ -32,3 +32,5 @@ Jupyter notebooks, the geoViews Python library, and the Geoapify API were used t
 	▪	Create a data frame to store the city, coordinates, and humidity.
 	▪	Use the Geoapify API to find the first hotel located within 10,000 meters of my coordinates.
 	▪	Add the hotel name and the country as additional information in the hover message for each city on the map. 
+
+
