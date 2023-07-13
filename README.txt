@@ -13,6 +13,7 @@ Creating a python script to visualize the weather of over 500 cities of varying 
       ![alt text](https://github.com/[M0412]/[python-api-challenge]/blob/WeatherPy/output_data/Fig1.png?raw=true)
       (https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
+      ![No title](https://github.githubassets.com/images/modules/logos_page/GitHub-Fig1.png)
 	▪	Latitude  vs. Humidity
 	▪	Latitude vs. Cloudiness
 	▪	Latitude vs. Wind Speed
