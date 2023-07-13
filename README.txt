@@ -8,7 +8,7 @@ Creating a python script to visualize the weather of over 500 cities of varying 
 
 	▪	Latitude vs. Temperature
 
-      ![Latitude vs Temperature (output_data/Fig1.png "Latitude vs Temperature")
+      ![Latitude vs Temperature] (output_data/Fig1.png "Latitude vs Temperature")
             ![](output_data/Fig1.png)
             ![alt text](https://github.com/[M0412]/[python-api-challenge]/blob/WeatherPy/output_data/Fig1.png?raw=true)
         (https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
