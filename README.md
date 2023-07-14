@@ -7,19 +7,17 @@ Creating a python script to visualize the weather of over 500 cities of varying 
  1- OpenWeatherMap was used to retrieve data from the cities list that were generated. A series of scatter plots was then created to showcase the following relationships:
 
 	▪	Latitude vs. Temperature
-
-     
-
- ![With title](output_data/Fig1.png "Latitude vs Temperature")
-      ![](./WeatherPy/output_data/Fig1.png)
       ![](WeatherPy/output_data/Fig1.png)
-      ![alt text](https://github.com/[M0412]/[python-api-challenge]/blob/WeatherPy/output_data/Fig1.png?raw=true)  
-      ![No title](https://github.githubassets.com/images/modules/logos_page/GitHub-Fig1.png)
-
+      
 	▪	Latitude  vs. Humidity
+      ![](WeatherPy/output_data/Fig2.png)    
+      
 	▪	Latitude vs. Cloudiness
+      ![](WeatherPy/output_data/Fig3.png)    
+      
 	▪	Latitude vs. Wind Speed
-
+      ![](WeatherPy/output_data/Fig4.png)
+      
 2- The linear regression for each relationship was then computed. Plots were separated into Northern Hemisphere and Southern Hemisphere and a series of scatter plots was created to showcase the relationships shown below. Linear regression line, the model’s formula, and the r values also were all computed for each plot.
 
 	▪	Northern Hemisphere: Latitude vs. Temperature
