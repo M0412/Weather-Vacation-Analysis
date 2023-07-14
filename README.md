@@ -7,16 +7,16 @@ Creating a python script to visualize the weather of over 500 cities of varying 
  1- OpenWeatherMap was used to retrieve data from the cities list that were generated. A series of scatter plots was then created to showcase the following relationships:
 
 	▪	Latitude vs. Temperature
-      ![](./WeatherPy/output_data/Fig1.png)
+      ![](WeatherPy/output_data/Fig1.png)
       
 	▪	Latitude  vs. Humidity
-      ![](./WeatherPy/output_data/Fig2.png)    
+      ![](WeatherPy/output_data/Fig2.png)    
       
 	▪	Latitude vs. Cloudiness
-      ![](./WeatherPy/output_data/Fig3.png)    
+      ![](WeatherPy/output_data/Fig3.png)    
       
 	▪	Latitude vs. Wind Speed
-      ![](./WeatherPy/output_data/Fig4.png)
+      ![](WeatherPy/output_data/Fig4.png)
       
 2- The linear regression for each relationship was then computed. Plots were separated into Northern Hemisphere and Southern Hemisphere and a series of scatter plots was created to showcase the relationships shown below. Linear regression line, the model’s formula, and the r values also were all computed for each plot.
 
@@ -38,6 +38,8 @@ Jupyter notebooks, the geoViews Python library, and the Geoapify API were used t
         ▪	Narrow down the data frame to the ideal weather condition.
 	▪	Create a data frame to store the city, coordinates, and humidity.
 	▪	Use the Geoapify API to find the first hotel located within 10,000 meters of my coordinates.
-	▪	Add the hotel name and the country as additional information in the hover message for each city on the map. 
+	▪	Add the hotel name and the country as additional information in the hover message for each city on the map.
+     
+<img width="1440" alt="map2" src="https://github.com/M0412/python-api-challenge/assets/133132845/9c91d90e-5078-4080-a17c-809e6254736f">
 
 
