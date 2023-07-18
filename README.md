@@ -59,7 +59,8 @@ Jupyter notebooks, the geoViews Python library, and the Geoapify API were used t
 	▪	Use the Geoapify API to find the first hotel located within 10,000 meters of my coordinates.
 	▪	Add the hotel name and the country as additional information in the hover message for each city on the map.
      
-  ![map2](https://github.com/M0412/python-api-challenge/assets/133132845/8cb1e39d-d90c-49a9-8a9d-4b041fab8e03)
+ 
+![map2](https://github.com/M0412/python-api-challenge/assets/133132845/4c66d678-0ce0-446e-b9a0-7a65d7856d07)
 
 
 
